@@ -1,5 +1,7 @@
 # Treezy - Interactive Tree Visualization
 
+Copyright (c) 2024 STUDIOUS-bot. All rights reserved.
+
 Treezy is an interactive web application for visualizing and learning about complex tree data structures. It provides animated, step-by-step visualizations of how different tree structures handle insertions and balance themselves.
 
 ## Features

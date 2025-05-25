@@ -9,10 +9,10 @@
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["data-structures", "visualization", "trees", "avl-tree", "b-tree"],
+  "author": "STUDIOUS-bot",
+  "license": "MIT",
+  "description": "An interactive visualization tool for tree data structures including AVL and B-trees",
   "devDependencies": {
     "@types/react-syntax-highlighter": "^15.5.13",
     "@vitejs/plugin-react": "^4.4.1",
